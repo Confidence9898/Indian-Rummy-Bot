@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+indianrummybot/__init__.py
+indianrummybot/__main__.py
+indianrummybot/bot.py
+indianrummybot.egg-info/PKG-INFO
+indianrummybot.egg-info/SOURCES.txt
+indianrummybot.egg-info/dependency_links.txt
+indianrummybot.egg-info/requires.txt
+indianrummybot.egg-info/top_level.txt
+indianrummybot/resources/start.png
